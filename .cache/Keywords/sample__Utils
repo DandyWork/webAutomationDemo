@@ -20,7 +20,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Click on select2 text box.\r\n\t *\r\n\t * @param to The select2 box object that tagged as \"select\" in the document.\r\n\t */"
         },
         {
           "name": "findContainer",
@@ -38,7 +39,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Find the container class after the select element.\r\n\t *\r\n\t * @param to The select2 box object that tagged as \"select\" in the document.\r\n\t * @return The WebElement that seen as container class after the select element.\r\n\t */"
         },
         {
           "name": "selectResult",
@@ -69,7 +71,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Select the result after filling text search to select2 text box.\r\n\t *\r\n\t * @param option The label of option need to select.\r\n\t * @param subContainerOpenClass The Xpath string of the container class.\r\n\t */"
         },
         {
           "name": "enterText",
@@ -87,10 +90,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Enter text search to the select2 text box.\r\n\t *\r\n\t * @param option The label of option need to search.\r\n\t * @return The Xpath string of the container class.\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
