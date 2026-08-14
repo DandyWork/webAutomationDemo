@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success_login_playback</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c08bf9f2-867e-4a3e-8b2b-c5cc1a17134c</testCaseGuid>
+</TestCaseEntity>
